@@ -22,7 +22,7 @@
     <li><b>I am left-handed 🫲</b></li>
     <li><b>I really like miniatures 🎨</b></li>
     <li><b>I love Japan 🏯🇯🇵</b></li>
-    <li><b>I am autism 🧩</b></li>
+    <li><b>I am autistic 🧩</b></li>
   </ul>
 </details>
 
