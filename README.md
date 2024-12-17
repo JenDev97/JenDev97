@@ -18,11 +18,13 @@
 
 <details>
   <summary>⚡️ Fun facts</summary>
-  	<ul>
-	    <li><b>I am left-handed 🫲</li>
-	    <li><b>I really like miniatures 🎨</li>
-	    <li><b>I love Japan 🏯🇯🇵</li>
-	</ul>
+  <ul>
+    <li><b>I am left-handed 🫲</b></li>
+    <li><b>I really like miniatures 🎨</b></li>
+    <li><b>I love Japan 🏯🇯🇵</b></li>
+    <li><b>I am autism 🧩</b></li>
+  </ul>
 </details>
+
 
 ##### Just like many other programmers, I also love cats 🐈 (<span style="font-size: small;">_The internet is controlled by them_</span>).
